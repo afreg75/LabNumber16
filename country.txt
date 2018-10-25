@@ -1,0 +1,8 @@
+USA	36789876
+Canada	12345678
+Mexico	2345678
+Bolivia	1234567
+Brazil	256265
+Hawaii	456456
+Africa	787921
+Vietnam	2123211
